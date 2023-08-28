@@ -59,21 +59,10 @@ body {
   display: flex;
   flex-direction: column;
 
-  .first-box{
+  .div{
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 25px;
-  }
-
-.picture-box{
-    display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 25px;
-  }
-
-  .snowboard-box{
-    display: flex;
-    justify-content: space-evenly;
   }
 
   .board-text-box{
