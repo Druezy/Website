@@ -79,3 +79,21 @@ body {
     justify-content: space-evenly;
   }
 }
+
+.snow-box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.snow-opening-content{
+  background-color: #865fe7;
+  border-radius: 12px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  border: solid;
+  border-radius: 5px;
+  max-width: 500px;
+}
